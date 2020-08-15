@@ -70,7 +70,7 @@ module.exports = function(grunt){
                 }]
             }
         },
-
+ 
         useminPrepare: {
             foo: {
                 dest: 'dist',
